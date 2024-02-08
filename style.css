@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#box{
+    height: 100%;
+    width: 100%;
+    background-color: lightseagreen;
+    position: absolute;
+    animation-name: colorblind;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    /* animation-delay: 1s; */
+    
+}
+@keyframes colorblind {
+    0% {
+        background-color: aqua;
+      }
+    
+      2% {
+        background-color: green;
+      }
+    
+      4% {
+        background-color: red;
+      }
+    
+      6% {
+        background-color: blue;
+      }
+    
+      8% {
+        background-color: yellow;
+      }
+    
+      10% {
+        background-color: orange;
+      }
+    
+      12% {
+        background-color: purple;
+      }
+    
+      14% {
+        background-color: pink;
+      }
+    
+      16% {
+        background-color: coral;
+      }
+    
+      18% {
+        background-color: violet;
+      }
+    
+      20% {
+        background-color: gold;
+      }
+    
+      22% {
+        background-color: silver;
+      }
+    
+      24% {
+        background-color: lightblue;
+      }
+    
+      26% {
+        background-color: salmon;
+      }
+    
+      28% {
+        background-color: skyblue;
+      }
+    
+      30% {
+        background-color: tan;
+      }
+    
+      32% {
+        background-color: tomato;
+      }
+    
+      34% {
+        background-color: navy;
+      }
+    
+      36% {
+        background-color: olive;
+      }
+    
+      38% {
+        background-color: magenta;
+      }
+    
+      40% {
+        background-color: lime;
+      }
+    
+      42% {
+        background-color: indigo;
+      }
+    
+      44% {
+        background-color: hotpink;
+      }
+    
+      46% {
+        background-color: darkcyan;
+      }
+    
+      48% {
+        background-color: deepskyblue;
+      }
+    
+      50% {
+        background-color: darkorange;
+      }
+    
+      52% {
+        background-color: darkseagreen;
+      }
+    
+      54% {
+        background-color: darkviolet;
+      }
+    
+      56% {
+        background-color: darkslategray;
+      }
+    
+      58% {
+        background-color: darkolivegreen;
+      }
+    
+      60% {
+        background-color: darkgoldenrod;
+      }
+    
+      62% {
+        background-color: darkmagenta;
+      }
+    
+      64% {
+        background-color: darkred;
+      }
+    
+      66% {
+        background-color: darkturquoise;
+      }
+    
+      68% {
+        background-color: darkblue;
+      }
+    
+      70% {
+        background-color: darkkhaki;
+      }
+    
+      72% {
+        background-color: darkorchid;
+      }
+    
+      74% {
+        background-color: darkgreen;
+      }
+    
+      76% {
+        background-color: darkslateblue;
+      }
+    
+      78% {
+        background-color: darkgray;
+      }
+    
+      80% {
+        background-color: darkbrown;
+      }
+    
+      82% {
+        background-color: darkcyan;
+      }
+    
+      84% {
+        background-color: darkred;
+      }
+    
+      86% {
+        background-color: darkseagreen;
+      }
+    
+      88% {
+        background-color: darkmagenta;
+      }
+    
+      90% {
+        background-color: darkolivegreen;
+      }
+    
+      92% {
+        background-color: darkorange;
+      }
+    
+      94% {
+        background-color: darkslategray;
+      }
+    
+      96% {
+        background-color: darkviolet;
+      }
+    
+      98% {
+        background-color: darkturquoise;
+      }
+    
+      100% {
+        background-color: darkblue;
+      }
+
+    
+}
